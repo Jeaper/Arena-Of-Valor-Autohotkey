@@ -10,13 +10,13 @@ I use steam as a keybinder.
 Just go into big picture mode and configure desktop controls
 
 My steam keybinds:
-![steam keybinds](https://i.imgur.com/4F04Dv6.jpg)
+![steam keybinds](https://i.imgur.com/mdPpovN.jpg)
 
 
 Bluestacks setup:
 (remove the ability one if you want to have it aimable.)
-![Bluestacks](https://i.imgur.com/tsdVygl.jpg)
+![Bluestacks](https://i.imgur.com/B8Tl0A6.jpg)
 
 
 Controls for the game with my setup:
-![Controls](https://i.imgur.com/mZrKNVV.jpg)
+![Controls](https://i.imgur.com/zzqA9Vu.jpg)
