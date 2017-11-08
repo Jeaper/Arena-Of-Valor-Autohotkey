@@ -19,4 +19,4 @@ Bluestacks setup:
 
 
 Controls for the game with my setup:
-![Controls](https://i.imgur.com/zzqA9Vu.jpg)
+![Controls](https://i.imgur.com/jEqGAqR.jpg)
